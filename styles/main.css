@@ -1,0 +1,7 @@
+.cell {
+  text-align: center; margin: 2px;
+  border: 1px solid #999; border-radius: 2px;
+}
+.cell:hover {
+  box-shadow: 0 0 3px 1px #aaa;
+}
